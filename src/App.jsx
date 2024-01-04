@@ -11,8 +11,8 @@ import { Router, Route, Routes } from "react-router-dom";
 const App = () => {
   return (
     <>
-      <Navbar />
       <Router basename={process.env.REACT_APP_URI}>
+      <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
