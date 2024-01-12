@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.e817ec8b.css",
-    "main.js": "/static/js/main.2e7ccb07.js",
-    "static/media/cake3.jpg": "/static/media/cake3.b156521222b099b580d7.jpg",
-    "static/media/side.jpg": "/static/media/side.dec16e1eff414ae22c0d.jpg",
-    "static/media/cupcake2.jpg": "/static/media/cupcake2.a733506f76929913a7c5.jpg",
-    "static/media/cake1.jpg": "/static/media/cake1.fb3aab198856b88c47f0.jpg",
-    "static/media/choco2.jpg": "/static/media/choco2.d57100cc18618210b042.jpg",
-    "static/media/choco1.jpg": "/static/media/choco1.a32bc743d6577b0ed263.jpg",
-    "static/media/donut3.jpg": "/static/media/donut3.f791e6a880ec15881995.jpg",
-    "static/media/cupcake3.jpg": "/static/media/cupcake3.6933285e10a63db660cb.jpg",
-    "static/media/donut2.jpg": "/static/media/donut2.a61950850545c3320d61.jpg",
-    "static/media/choco3.jpg": "/static/media/choco3.bf772bdc2cfece4722b6.jpg",
-    "static/media/donut1.jpg": "/static/media/donut1.9ba7a06282aad846d310.jpg",
-    "static/media/cake2.jpg": "/static/media/cake2.707bb96fd551497f0b05.jpg",
-    "static/media/cupcake1.jpg": "/static/media/cupcake1.98dd246edbde5f5d34cc.jpg",
-    "static/media/bg.jpg": "/static/media/bg.f7d53a02697882cf0048.jpg",
-    "index.html": "/index.html",
-    "main.e817ec8b.css.map": "/static/css/main.e817ec8b.css.map",
-    "main.2e7ccb07.js.map": "/static/js/main.2e7ccb07.js.map"
+    "main.css": "/happystore/static/css/main.8f4d3529.css",
+    "main.js": "/happystore/static/js/main.624a790f.js",
+    "static/media/cake3.jpg": "/happystore/static/media/cake3.b156521222b099b580d7.jpg",
+    "static/media/side.jpg": "/happystore/static/media/side.dec16e1eff414ae22c0d.jpg",
+    "static/media/cupcake2.jpg": "/happystore/static/media/cupcake2.a733506f76929913a7c5.jpg",
+    "static/media/cake1.jpg": "/happystore/static/media/cake1.fb3aab198856b88c47f0.jpg",
+    "static/media/choco2.jpg": "/happystore/static/media/choco2.d57100cc18618210b042.jpg",
+    "static/media/choco1.jpg": "/happystore/static/media/choco1.a32bc743d6577b0ed263.jpg",
+    "static/media/donut3.jpg": "/happystore/static/media/donut3.f791e6a880ec15881995.jpg",
+    "static/media/cupcake3.jpg": "/happystore/static/media/cupcake3.6933285e10a63db660cb.jpg",
+    "static/media/donut2.jpg": "/happystore/static/media/donut2.a61950850545c3320d61.jpg",
+    "static/media/choco3.jpg": "/happystore/static/media/choco3.bf772bdc2cfece4722b6.jpg",
+    "static/media/donut1.jpg": "/happystore/static/media/donut1.9ba7a06282aad846d310.jpg",
+    "static/media/cake2.jpg": "/happystore/static/media/cake2.707bb96fd551497f0b05.jpg",
+    "static/media/cupcake1.jpg": "/happystore/static/media/cupcake1.98dd246edbde5f5d34cc.jpg",
+    "static/media/bg.jpg": "/happystore/static/media/bg.f7d53a02697882cf0048.jpg",
+    "index.html": "/happystore/index.html",
+    "main.8f4d3529.css.map": "/happystore/static/css/main.8f4d3529.css.map",
+    "main.624a790f.js.map": "/happystore/static/js/main.624a790f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e817ec8b.css",
-    "static/js/main.2e7ccb07.js"
+    "static/css/main.8f4d3529.css",
+    "static/js/main.624a790f.js"
   ]
 }
