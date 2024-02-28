@@ -47,7 +47,7 @@ const Service = () => {
           </div>
           <div className="row justify-content-center">
             <div className="col-md-6">
-              <div className="input-group mb-3">
+              <div className="input-group mb-5">
                 <span className="input-group-text end_input_span">$</span>
                 <input id="searchTxt" type="text" className="form-control" aria-label="Amount (to the nearest dollar)" value = {price} placeholder="item....." onChange={searchItem} />
                 <span className="input-group-text end_search">Search</span>
